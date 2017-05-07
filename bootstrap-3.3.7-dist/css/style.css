@@ -1,0 +1,47 @@
+h1, h2 {
+	color: #2A74BF;
+}
+hr {
+	border:1px solid #2A74BF;
+}
+h3 {
+	font-size: 1em;
+}
+.navbar-default .navbar-nav > .active > a {
+	color: white;
+	background-color: #2A74BF;
+}
+img {
+	width: 100%;
+}
+.thumbnail {
+    position: relative;
+    padding: 0px;
+    margin-bottom: 20px;
+    border-radius: 0;
+}
+.thumbnail.red{
+	background-color: #D7514C;
+	border: 1px solid #D7514C;
+}
+.thumbnail.blue{
+	background-color: #2A74BF;
+	border: 1px solid #2A74BF;
+}
+.thumbnail.yellow{
+	background-color: #D8C11D;
+	border: 1px solid #D8C11D;
+}
+.thumbnail.green{
+	background-color: #4D944B;
+	border: 1px solid #4D944B;
+}
+.caption h3{
+	color: white;
+	text-align: center;
+}
+.panel {
+	background-color: #666;
+	color: white;
+	border-radius: 0;
+}
